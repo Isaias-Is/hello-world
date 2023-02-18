@@ -1,5 +1,9 @@
+html {
+	family-font: Verdana;
+}
+
 body {
-background-color: lightblue;
+background-color: #A9A9A9;
 }
 
 h1 {
